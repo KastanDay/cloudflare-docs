@@ -1,0 +1,23 @@
+src/content/workers-ai-models/deepseek-v4-flash-0731.json
+  s_60f4f5bff1c250::t_f241256944c858 20-23,302-303,306-309,316,323-324,1573-1574,1577-1580,1587,1594-1595,2414-2415,2418-2421,2428,2435-2436,3685-3686,3689-3692,3699,3706-3707,4794
+src/content/workers-ai-models/deepseek-v4-pro-0813.json
+  s_60f4f5bff1c250::t_847270ac301235 20-23,306-307,310-313,320,327-328,1577-1578,1581-1584,1591,1598-1599,2418-2419,2422-2425,2432,2439-2440,3689-3690,3693-3696,3703,3710-3711,4798
+src/content/workers-ai-models/gemma-4-26b-a4b-it.json
+  s_60f4f5bff1c250::t_ec4d5b4ed965a5 41-44,305-306,309-312,319,326-327,1571-1572,1575-1578,1585,1592-1593,2420-2421,2424-2427,2434,2441-2442,3688-3689,3692-3695,3702,3709-3710,4796
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bf091a8cec1356290d05d7995855bd25123378ae",
+  "prompts": {},
+  "sessions": {
+    "s_60f4f5bff1c250": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc527d75bffeXJo1EW11pLkNld",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
