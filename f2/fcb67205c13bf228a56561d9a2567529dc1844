@@ -1,0 +1,21 @@
+src/components/models/ModelFeatures.astro
+  s_60f4f5bff1c250::t_08b4f332077efc 141
+src/content/workers-ai-models/glm-5.2.json
+  s_60f4f5bff1c250::t_cdffaf59c4412c 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f2fcb67205c13bf228a56561d9a2567529dc1844",
+  "prompts": {},
+  "sessions": {
+    "s_60f4f5bff1c250": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc527d75bffeXJo1EW11pLkNld",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
