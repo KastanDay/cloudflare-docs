@@ -1,0 +1,19 @@
+src/components/models/ModelDetailPage.astro
+  s_bcea59976e7030::t_762350e9488ad4 147,218-222,352-387
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "98720d7fff8f93d1c6cc51a2b56e5001595397a0",
+  "prompts": {},
+  "sessions": {
+    "s_bcea59976e7030": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc55c5ec2ffeRC3gB07lg0qO3n",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
