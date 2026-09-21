@@ -1,0 +1,41 @@
+src/content/workers-ai-models/deepseek-v4-flash-0731.json
+  s_8c060a2cc9af0b::t_293fa361c9c22a 24-43
+src/content/workers-ai-models/deepseek-v4-pro-0813.json
+  s_8c060a2cc9af0b::t_b40664c4eadfcd 20-39
+src/content/workers-ai-models/gemma-4-26b-a4b-it.json
+  s_8c060a2cc9af0b::t_2c38bdc222dab1 20-39
+src/content/workers-ai-models/glm-4.7-flash.json
+  s_8c060a2cc9af0b::t_4ebdefc2159058 30-36
+src/content/workers-ai-models/glm-5.2.json
+  s_8c060a2cc9af0b::t_229110dbeec08d 20-39
+src/content/workers-ai-models/glm-5.3-flash.json
+  s_8c060a2cc9af0b::t_fd0053513610aa 20-39
+src/content/workers-ai-models/glm-5.3.json
+  s_8c060a2cc9af0b::t_2c89fdc2ea1707 20-37
+src/content/workers-ai-models/gpt-oss-120b.json
+  s_8c060a2cc9af0b::t_ae258dab40104f 34-46
+src/content/workers-ai-models/gpt-oss-20b.json
+  s_8c060a2cc9af0b::t_e888b9dc6ad7c5 34-46
+src/content/workers-ai-models/kimi-k2.6.json
+  s_8c060a2cc9af0b::t_c06bb0268967eb 24-41
+src/content/workers-ai-models/kimi-k2.7-code.json
+  s_8c060a2cc9af0b::t_b7dec32f94b6b1 20-26
+src/util/models/model-format.node.test.ts
+  s_8c060a2cc9af0b::t_cee36702a18acb 42-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3ebc70e87976eafcd24826b098ea4a80ec6e3202",
+  "prompts": {},
+  "sessions": {
+    "s_8c060a2cc9af0b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c538-0268-7f41-a3d1-1ed307b4f9e7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
