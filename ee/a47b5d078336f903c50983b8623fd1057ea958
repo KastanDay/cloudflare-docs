@@ -1,0 +1,19 @@
+src/util/models/model-format.ts
+  s_8c060a2cc9af0b::t_9f88ea2bb95ad3 18-31,39-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "eea47b5d078336f903c50983b8623fd1057ea958",
+  "prompts": {},
+  "sessions": {
+    "s_8c060a2cc9af0b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c538-0268-7f41-a3d1-1ed307b4f9e7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
