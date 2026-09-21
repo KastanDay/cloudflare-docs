@@ -1,0 +1,19 @@
+package.json
+  s_f5105e2ddfe41c::t_7bcfb1c63771d0 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "401106bb0a95113cdaf412dbf5b9c758eae25869",
+  "prompts": {},
+  "sessions": {
+    "s_f5105e2ddfe41c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0b0f5-6791-77f0-8dae-1975fe09c6e6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
