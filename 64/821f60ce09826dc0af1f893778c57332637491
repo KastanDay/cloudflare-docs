@@ -1,0 +1,19 @@
+src/content/workers-ai-models/nemotron-3-120b-a12b.json
+  s_a35168d19c096d::t_180869502d10ed 298,1095
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "64821f60ce09826dc0af1f893778c57332637491",
+  "prompts": {},
+  "sessions": {
+    "s_a35168d19c096d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f35ddf4c6ffewslpMjTQpy2TCt",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
