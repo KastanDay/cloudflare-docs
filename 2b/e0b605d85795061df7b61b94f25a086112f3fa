@@ -1,0 +1,19 @@
+src/components/models/ModelDetailPage.astro
+  s_361c0b704e58dd::t_8417448cac8c8c 147-151,352,386-436
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2be0b605d85795061df7b61b94f25a086112f3fa",
+  "prompts": {},
+  "sessions": {
+    "s_361c0b704e58dd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c647-e2fb-7ec2-9172-e8d595f96779",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
