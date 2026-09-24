@@ -1,0 +1,39 @@
+src/content/workers-ai-models/deepseek-v4-flash-0731.json
+  s_6c3d070a6f8a7f::t_4da4fa6c86875b 302-303,305,312-313,321,1551-1552,1554,1561-1562,1570,2370-2371,2373,2380-2381,2389,3619-3620,3622,3629-3630,3638,4689
+src/content/workers-ai-models/deepseek-v4-pro-0813.json
+  s_6c3d070a6f8a7f::t_469c9e25fd30b7 298-299,301,308-309,317,1547-1548,1550,1557-1558,1566,2366-2367,2369,2376-2377,2385,3615-3616,3618,3625-3626,3634,4685
+src/content/workers-ai-models/gemma-4-26b-a4b-it.json
+  s_6c3d070a6f8a7f::t_d02caa8aa583ba 305-306,313-314,321-322,1556-1557,1564-1565,1572-1573,2377-2378,2385-2386,2393-2394,3628-3629,3636-3637,3644-3645,4696
+src/content/workers-ai-models/glm-4.7-flash.json
+  s_6c3d070a6f8a7f::t_466f1d4dbbfba6 288,1519,2565
+src/content/workers-ai-models/glm-5.2.json
+  s_6c3d070a6f8a7f::t_1c666724951bcb 298-300,307-308,316,1546-1548,1555-1556,1564,2364-2366,2373-2374,2382,3612-3614,3621-3622,3630,4681
+src/content/workers-ai-models/glm-5.3-flash.json
+  s_6c3d070a6f8a7f::t_841bddb0861665 306-308,315-316,324-327,1557-1559,1566-1567,1575-1578,2378-2380,2387-2388,2396-2399,3629-3631,3638-3639,3647-3650,4701
+src/content/workers-ai-models/glm-5.3.json
+  s_6c3d070a6f8a7f::t_043dc565b5bd6c 298-300,307-308,316-319,1549-1551,1558-1559,1567-1570,2370-2372,2379-2380,2388-2391,3621-3623,3630-3631,3639-3642,4693
+src/content/workers-ai-models/gpt-oss-120b.json
+  s_6c3d070a6f8a7f::t_fa96bd1593b9b1 449-451,499-501,542
+src/content/workers-ai-models/gpt-oss-20b.json
+  s_6c3d070a6f8a7f::t_735ae3d638de69 449-451,499-501,542
+src/content/workers-ai-models/kimi-k2.6.json
+  s_6c3d070a6f8a7f::t_0dcd5ce3d96409 310-311,318-319,327,1557-1558,1565-1566,1574,2374-2375,2382-2383,2391,3621-3622,3629-3630,3638,4689
+src/content/workers-ai-models/kimi-k2.7-code.json
+  s_6c3d070a6f8a7f::t_8b2d3b0dadc3fa 313-314,322-325,1562-1563,1571-1574,2381-2382,2390-2393,3630-3631,3639-3642,4693
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b4b30a2dd6fac971e250fff140097e8a927ef747",
+  "prompts": {},
+  "sessions": {
+    "s_6c3d070a6f8a7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0b5a6-79f5-7351-8d26-cfd7a1ebfbd3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}

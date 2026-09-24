@@ -1,0 +1,21 @@
+src/util/models/model-format.node.test.ts
+  s_a35168d19c096d::t_ea21fcbcfd2cdc 81-87
+src/util/models/model-format.ts
+  s_a35168d19c096d::t_b5f89fa12debf9 77,79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "27bccceedbdac78facdd4cc476491d662fcafb5b",
+  "prompts": {},
+  "sessions": {
+    "s_a35168d19c096d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f35ddf4c6ffewslpMjTQpy2TCt",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}

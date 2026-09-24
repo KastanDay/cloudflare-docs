@@ -1,0 +1,29 @@
+src/content/workers-ai-models/gemma-4-26b-a4b-it.json
+  s_a35168d19c096d::t_c016a33d7151c8 24,312,1547,2352,3587
+src/content/workers-ai-models/glm-5.3.json
+  s_a35168d19c096d::t_1939c2143a30c5 31,33,327,1578,2399,3650
+src/content/workers-ai-models/gpt-oss-120b.json
+  s_a35168d19c096d::t_7e2d3fb2751999 39,41
+src/content/workers-ai-models/gpt-oss-20b.json
+  s_a35168d19c096d::t_964f3f3fa7bc9f 39,41
+src/content/workers-ai-models/nemotron-3-120b-a12b.json
+  s_a35168d19c096d::t_fc7cd7f4360006 298,1095
+src/content/workers-ai-models/qwen3.8-27b.json
+  s_a35168d19c096d::t_e43c74f26a75d9 24,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "aaa9804d07ea6f96bd1c7e612892f5fe9abe9582",
+  "prompts": {},
+  "sessions": {
+    "s_a35168d19c096d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f35ddf4c6ffewslpMjTQpy2TCt",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
