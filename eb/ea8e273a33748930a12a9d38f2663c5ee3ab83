@@ -1,0 +1,19 @@
+src/content/docs/rules/custom-errors/api-calls.mdx
+  s_d172e5531479d9::t_24e2d24c612854 179,213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ebea8e273a33748930a12a9d38f2663c5ee3ab83",
+  "prompts": {},
+  "sessions": {
+    "s_d172e5531479d9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d476-fc6f-7bb0-aa56-1222d5badc0f",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Kastan Day <kastanvday@gmail.com>"
+    }
+  }
+}
